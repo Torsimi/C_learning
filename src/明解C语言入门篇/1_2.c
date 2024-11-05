@@ -1,3 +1,8 @@
-//
-// Created by Muhebbetjan on 2024/11/5.
-//
+#include <stdio.h>
+
+int main(void){
+
+    printf("天\n地\n人\n");    //分行显示天、地、人
+    return 0;
+
+}
